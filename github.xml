@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9c02c955-ff80-48ec-9482-ccde00e71540" name="dpkg">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>
